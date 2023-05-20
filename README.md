@@ -1,2 +1,2 @@
 # Computer-Vision
-A computer vision program try to clon drones fight mechanism
+Savaşan iha'ların kullandığı kilitleme mekanizmasına benzer basit bir prototip. Mavi şişe kapağı belirli alan içerisinde belirlenen süre kadar duruyorsa kilitlenme gerçekleşir.
